@@ -2,4 +2,4 @@
 
 This is collection of popular games in Black and White.
 
-1- Tic Tac Toe
+. Tic Tac Toe
