@@ -39970,7 +39970,7 @@ return}}r=J.aF(m[0],0)
 for(s=1;s<n.f;++s)if(r!==J.aF(m[s],s)){r=-1
 break}if(r!==-1){n.mo(B.cf)
 return}r=J.aF(m[0],n.f-1)
-for(s=1;p=n.f,s<p;++s)if(r!==J.aF(m[s],p-s)){r=-1
+for(s=1;p=n.f,s<p;++s)if(r!==J.aF(m[s],p-s-1)){r=-1
 break}if(r!==-1){n.mo(B.cf)
 return}r=J.aF(m[0],0)
 for(s=0;p=n.f,s<p;++s){for(q=1;q<p;++q){r=J.aF(m[s],q)
